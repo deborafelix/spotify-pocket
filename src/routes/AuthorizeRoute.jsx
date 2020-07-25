@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import { useLocation, Redirect } from 'react-router-dom';
 import { Authorize } from '../containers';
 import { useDispatch, useSelector } from 'react-redux';

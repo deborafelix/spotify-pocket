@@ -4,7 +4,6 @@ import { Logo } from '../../components';
 import './Login.scss';
 import { config } from '../../config';
 
-import backgroundImageMobile from '../../assets/images/app-intro-1.jpg';
 import backgroundImageDesktop from '../../assets/images/app-intro-2.jpg';
 
 
